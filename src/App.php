@@ -1,8 +1,8 @@
 <?php
-
-use Container\Container;
-use Request\Request;
-use Service\LoggerService;
+namespace Core;
+use Core\Container\Container;
+use Core\Request\Request;
+//use Service\LoggerService;
 
 class App
 {

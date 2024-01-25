@@ -1,6 +1,6 @@
 <?php
 
-namespace Container;
+namespace Core\Container;
 class Container // список зависимостей
 {
     private array $services;

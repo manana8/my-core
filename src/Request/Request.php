@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Request;
+namespace Core\Request;
 class Request
 {
     protected string $method;

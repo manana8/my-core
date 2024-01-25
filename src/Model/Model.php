@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Model;
+namespace Core\Model;
 class Model
 {
     protected static PDO $pdo;
