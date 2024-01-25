@@ -1,5 +1,6 @@
 <?php
 
+use Container\Container;
 use Request\Request;
 use Service\LoggerService;
 

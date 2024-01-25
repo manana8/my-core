@@ -1,0 +1,9 @@
+{
+    "name": "manana/my-core",
+    "autoload": {
+        "psr-4": {
+            "Manana\\MyCore\\": "src/"
+        }
+    },
+    "require": {}
+}

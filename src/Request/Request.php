@@ -1,13 +1,14 @@
 <?php
 
 
+namespace Request;
 class Request
 {
     protected string $method;
     protected array $headers;
     protected array $body;
 
-    public function __construct(string $method, array $body = [], array $headers= [])
+    public function __construct(string $method, array $body = [], array $headers = [])
     {
         $this->method = $method;
         $this->body = $body;
