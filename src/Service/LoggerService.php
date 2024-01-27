@@ -1,6 +1,6 @@
 <?php
 
-namespace Core\Service;
+namespace Manana\MyCore\Service;
 
 class LoggerService
 {

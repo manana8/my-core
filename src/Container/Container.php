@@ -1,6 +1,6 @@
 <?php
 
-namespace Core\Container;
+namespace Manana\MyCore\Container;
 class Container // список зависимостей
 {
     private array $services;

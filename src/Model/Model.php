@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Core\Model;
+namespace Manana\MyCore\Model;
 class Model
 {
     protected static PDO $pdo;

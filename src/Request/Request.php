@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Core\Request;
+namespace Manana\MyCore\Request;
 class Request
 {
     protected string $method;

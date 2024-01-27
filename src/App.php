@@ -1,8 +1,10 @@
 <?php
-namespace Core;
-use Core\Container\Container;
-use Core\Request\Request;
-//use Service\LoggerService;
+
+namespace Manana\MyCore;
+
+use Manana\MyCore\Container\Container;
+use Manana\MyCore\Request\Request;
+use Manana\MyCore\Service\LoggerService;
 
 class App
 {
